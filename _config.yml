@@ -1,0 +1,16 @@
+# Site settings
+title: Debjyoti Mondal
+description: kit2's
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://deb-kit2.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Debjyoti Mondal
+user_description: I\'m a student at IIT (ISM), Dhanbad.
+user_title: Under Construction
+email: nick.kittu.deb@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  deb-kit2
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
