@@ -6,11 +6,18 @@ url: "https://deb-kit2.github.io" # the base hostname & protocol for your site e
 
 # User settings
 username: Debjyoti Mondal
-user_description: I\'m a student at IIT (ISM), Dhanbad.
-user_title: Under Construction
+user_description: I'm a student at IIT (ISM), Dhanbad.
+user_title: Student. Developer.
 email: nick.kittu.deb@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  deb-kit2
 # gplus_username:  lorem_ipsum
 
+# About Me
+languages: My main development languages are Python and C++. And I like Processing, it's fun.
+frameworks: I'm comfortable with Tensorflow and MATLAB, with some exposure to Pytorch.
+tools: I like math. I don't know much, but I like math.
+
+# footer
+footer: Made with The Principle of Least Effort.
 exclude: ['package.json', 'src' , 'node_modules']
